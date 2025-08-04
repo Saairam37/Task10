@@ -14,7 +14,7 @@ Recipes App:
   - Architecture: MVC
 
 🔗 API Endpoints:
- Base URL: http://localhost:PORT/api/recipes
+ Base URL: http://localhost:PORT/api/v1/recipes
 
 Method	Endpoint	Description:
   - POST	/	Create a new recipe
