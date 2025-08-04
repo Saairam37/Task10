@@ -12,7 +12,6 @@ Recipes App:
   - Backend: Node.js, Express.js
   - Database: MongoDB, Mongoose
   - Architecture: MVC
-  - Documentation: Postman
 
 🔗 API Endpoints:
  Base URL: http://localhost:PORT/api/recipes
@@ -59,9 +58,6 @@ To use the API routes, append the appropriate path:
  - POST /api/v1/recipes – Add a new recipe
  - PUT /api/v1/recipes/:id – Update a recipe
  - DELETE /api/v1/recipes/:id – Delete a recipe
-  
-📬 API Documentation:
-   Postman documentation is publicly available here: 🔗 Postman Docs: https://documenter.getpostman.com/view/43648661/2sB34oDdcQ
 
 📝 How to Run:
   Clone the repo:
