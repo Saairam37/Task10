@@ -49,7 +49,7 @@ Response:
   Gracefully handles missing or invalid data
   
 🌐 Live Demo:
-  You can access the live project here: 🔗 Hosted URL: https://recipes-app-yfz9.onrender.com
+  You can access the live project here: (https://recipes-app-yfz9.onrender.com](https://recipeapi-bysaairam.onrender.com/api/v1/recipes/)
 
 To use the API routes, append the appropriate path:
 
